@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://cdn.jsdelivr.net/gh/Ukenn2112/image/large/UkennHello.gif)
+
 <!--
 **Ukenn2112/Ukenn2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
