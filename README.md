@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](./UkennHello.gif)
+![image](https://github.com/Ukenn2112/Ukenn2112/blob/master/UkennHello.gif)
 
 <!--
 **Ukenn2112/Ukenn2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
