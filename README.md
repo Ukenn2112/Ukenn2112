@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![image](https://github.com/Ukenn2112/Ukenn2112/blob/master/UkennHello.gif)](https://ukenn.top)
+[![image](https://cdn.jsdelivr.net/gh/Ukenn2112/Ukenn2112/UkennHello.png)](https://ukenn.top)
 
 ## Open source projects
 <table>
