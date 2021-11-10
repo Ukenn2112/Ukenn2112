@@ -9,9 +9,9 @@
 
 🌐 Don't know any programming language
 
-👀 I will only follow other people's code to get the function I need
-
 😊 Welcome to [My homepage](https://Ukenn.top)
+
+👀 I will only follow other people's code to get the function I need
 
 ## 📭 How to reach me
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukenn2112&layout=compact" />
