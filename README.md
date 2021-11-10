@@ -9,7 +9,7 @@
 
 🌐 Don't know any programming language
 
-👀 Only follow other people's code to get the function I need
+👀 I will only follow other people's code to get the function I need
 
 😊 Welcome to [My homepage](https://Ukenn.top)
 
