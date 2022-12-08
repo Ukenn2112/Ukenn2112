@@ -1,6 +1,6 @@
 # Hi there I'm Ukenn 👋
 <a href="https://ukenn.top">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ukenn2112&show_icons=true&theme=default" />
+  <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=Ukenn2112&show_icons=true&theme=default" />
 </a>
 
 📚 Prospective Japanese students trapped at home
@@ -14,7 +14,7 @@
 👀 I will only follow other people's code to get the function I need
 
 ## 📭 How to reach me
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukenn2112&layout=compact" />
+<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs/?username=Ukenn2112&layout=compact" />
 
 - ✈️ Telegram [@Ukennn](https://t.me/Ukennn)
 - 🐦 Twitter [@Ukenn2002](https://twitter.com/Ukenn2002)
