@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=Ukenn2112&show_icons=true&theme=default" />
 </a>
 
-📚 Prospective Japanese students trapped at home
+📚 A foreign student in Japan
 
 😀 A(Anime) C(Comics) G(Game) lovers
 
