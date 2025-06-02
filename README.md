@@ -7,11 +7,9 @@
 
 😀 A(Anime) C(Comics) G(Game) lovers
 
-🌐 Don't know any programming language
+🌐 Before AI, I mainly used Python and JavaScript. Now I am using AI and developing iOS apps with Swift. I enjoy creating novel and interesting tools and toys through programming.
 
 😊 Welcome to [My homepage](https://Ukenn.top)
-
-👀 I will only follow other people's code to get the function I need
 
 ## 📭 How to reach me
 <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs/?username=Ukenn2112&layout=compact" />
